@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/fruits train"
+		},
+		{
+			"path": "../../../Downloads/fruits test"
+		}
+	],
+	"settings": {}
+}
