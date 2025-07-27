@@ -49,6 +49,7 @@ resnet18.fc = torch.nn.Identity()
 resnet18 = resnet18.to(device)
 resnet18.eval()
 
+
 # Feature Extraction Function
 def extract_features(dataloader):
     features, labels = [], []
